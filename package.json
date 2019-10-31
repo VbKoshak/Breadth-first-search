@@ -1,0 +1,22 @@
+{
+  "name": "breadth-first-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VbKoshak/Breadth-first-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VbKoshak/Breadth-first-search/issues"
+  },
+  "homepage": "https://github.com/VbKoshak/Breadth-first-search#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
